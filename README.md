@@ -9,14 +9,14 @@ This is a simple example of a TCP server in C using the Winsock library on Windo
 ## Try it out
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/my-tcp-socket.git
+git clone https://github.com/Dheovani/TCPSocket.git
 ```
 1. Compile the source code:
     - Open the command prompt
     - Navigate to the project directory
     - Run the compilation command, for example:
 ```
-gcc main.c -o my-tcp-socket.exe -lws2_32
+gcc main.c -o socket.exe -lws2_32
 ```
 1. Run the server
 1. Connect to the server using a TCP client, such as your internet browser:
