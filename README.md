@@ -21,6 +21,7 @@ gcc main.c -o socket.exe -lws2_32
 1. Run the server
 1. Connect to the server using a TCP client, such as your internet browser:
 
+![Hello, World!](https://github.com/Dheovani/TCPSocket/assets/79609196/e62d979c-9ecc-4181-a0ab-4bd09bbbe271)
 
 ## License
 This project is licensed under the [MIT License](LICENSE.txt).
