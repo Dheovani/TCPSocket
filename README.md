@@ -11,15 +11,15 @@ This is a simple example of a TCP server in C using the Winsock library on Windo
 ```
 git clone https://github.com/Dheovani/TCPSocket.git
 ```
-1. Compile the source code:
+2. Compile the source code:
     - Open the command prompt
     - Navigate to the project directory
     - Run the compilation command, for example:
 ```
 gcc main.c -o socket.exe -lws2_32
 ```
-1. Run the server
-1. Connect to the server using a TCP client, such as your internet browser:
+3. Run the server
+4. Connect to the server using a TCP client, such as your internet browser:
 
 ![Hello, World!](https://github.com/Dheovani/TCPSocket/assets/79609196/e62d979c-9ecc-4181-a0ab-4bd09bbbe271)
 
